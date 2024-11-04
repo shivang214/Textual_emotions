@@ -1,3 +1,5 @@
+# Sentiment Analysis 
+  ### Using the different Word Embeddings and Different Models to compare the results and accuracy
  I've used a tweets dataset that contains tweet text with 12 emotions (neutral, worry, happiness, sadness, love, surprise, fun, relief, hate, empty, enthusiasm, boredom and anger) and the goal is to predict the percentage of emotions in a giving text
 
  To achieve that goal I've used some techniques fist to preprocess the text data :
